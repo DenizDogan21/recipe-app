@@ -3,13 +3,6 @@ import 'package:food_recipe/core/route/app_route.dart';
 import 'package:food_recipe/core/route/app_route_name.dart';
 import 'package:food_recipe/core/theme/app_theme.dart';
 
-/// Follow me on
-/// Youtube : Dannndi
-/// IG : dannndi.ig
-/// Tiktok : dannndi.tt
-///
-/// Like & Subscribe
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
